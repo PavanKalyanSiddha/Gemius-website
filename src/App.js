@@ -1,7 +1,7 @@
 // import React, { useEffect } from "react";
-import Header from "./Components/Header";
+
 import Container from "./Components/Container";
-import Footer from "./Components/Footer";
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Philosopy from "./Components/Philosopy";
 import Work from "./Components/Work";

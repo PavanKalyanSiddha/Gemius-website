@@ -1,5 +1,5 @@
 import React from "react";
-import { FooterContainer, FooterGridItem, StoriesGridItem } from "./Style";
+import { FooterContainer, FooterGridItem } from "./Style";
 
 const Footer = () => {
   return (
